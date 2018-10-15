@@ -1,8 +1,7 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-
-import { Bla } from "../../shared/test/bla";
+import { Bla } from "shared";
 
 class App extends Component {
   render() {
