@@ -62,3 +62,7 @@ typings/
 
 .serverless
 obj/*
+obj
+obj/Debug
+aspnetcore-lambda/src/aspnetcore-lambda/obj
+aspnetcore-lambda/test/aspnetcore-lambda.Tests/obj
