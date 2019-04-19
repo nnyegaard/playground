@@ -1,0 +1,14 @@
+C:\development\playground\ids4-quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+C:\development\playground\ids4-quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+C:\development\playground\ids4-quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+C:\development\playground\ids4-quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.dll
+C:\development\playground\ids4-quickstart\src\Api\bin\Debug\netcoreapp2.2\Api.pdb
+C:\development\playground\ids4-quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+C:\development\playground\ids4-quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+C:\development\playground\ids4-quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+C:\development\playground\ids4-quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+C:\development\playground\ids4-quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+C:\development\playground\ids4-quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+C:\development\playground\ids4-quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+C:\development\playground\ids4-quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.dll
+C:\development\playground\ids4-quickstart\src\Api\obj\Debug\netcoreapp2.2\Api.pdb

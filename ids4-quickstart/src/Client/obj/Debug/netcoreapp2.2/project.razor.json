@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\development\\playground\\ids4-quickstart\\src\\Client\\Client.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

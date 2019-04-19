@@ -1,0 +1,24 @@
+service:
+  name: koa-with-lambda-test1
+
+plugins:
+  - "@hewmen/serverless-plugin-typescript"
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+  stage: ${opt:stage, 'dev'}
+  region: eu-west-1
+  timeout: 30
+  deploymentBucket:
+    name: labs-lambda-deployments
+  environment:
+    stage: ${self:provider.stage}
+
+functions:
+  test1:
+    handler: src/server-lambda.handler
+    events:
+      - http:
+          path: /{proxy+}
+          method: ANY

@@ -1,0 +1,12 @@
+{
+  "name": "sls-dynamodb-test1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "aws-sdk": "^2.392.0",
+    "serverless": "^1.36.2",
+    "ts-node": "^8.0.1",
+    "typescript": "^3.2.4"
+  }
+}

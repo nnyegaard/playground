@@ -1,0 +1,27 @@
+service: sls-plugins-2
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+  region: eu-west-1
+  stage: dev
+
+functions:
+  get:
+    handler: handler.getUsers
+    events:
+      - http:
+          path: users
+          method: get
+  post:
+    handler: handler.createUser
+    events:
+      - http:
+          path: users
+          method: post
+
+custom:
+  stage: ${opt:stage, self:provider.stage}
+
+plugins:
+  - plugin

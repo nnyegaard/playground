@@ -1,0 +1,9 @@
+{
+  "name": "sls-typescript-test1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless": "^1.38.0"
+  }
+}

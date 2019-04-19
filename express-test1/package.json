@@ -1,0 +1,29 @@
+{
+  "name": "express-test1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "watch-server": "cross-env NODE_ENV=development nodemon --watch src/**/* -e ts,tsx --exec ts-node src/app.ts"
+  },
+  "dependencies": {
+    "@types/express-session": "^1.15.11",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "3.x",
+    "express-session": "^1.15.6",
+    "passport": "^0.4.0",
+    "passport-azure-ad": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.17.0",
+    "@types/cookie-parser": "^1.4.1",
+    "@types/express": "^4.16.0",
+    "@types/passport": "^0.4.7",
+    "@types/passport-azure-ad": "^4.0.1",
+    "cross-env": "^5.2.0",
+    "nodemon": "^1.18.9",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
+}

@@ -1,0 +1,11 @@
+C:\development\playground\ids4-quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.deps.json
+C:\development\playground\ids4-quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.json
+C:\development\playground\ids4-quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.dev.json
+C:\development\playground\ids4-quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.dll
+C:\development\playground\ids4-quickstart\src\Client\bin\Debug\netcoreapp2.2\Client.pdb
+C:\development\playground\ids4-quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.csprojAssemblyReference.cache
+C:\development\playground\ids4-quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.csproj.CoreCompileInputs.cache
+C:\development\playground\ids4-quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+C:\development\playground\ids4-quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+C:\development\playground\ids4-quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.dll
+C:\development\playground\ids4-quickstart\src\Client\obj\Debug\netcoreapp2.2\Client.pdb

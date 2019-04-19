@@ -1,0 +1,10 @@
+{
+  "name": "ts-classes-test1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^8.0.3",
+    "typescript": "^3.3.3333"
+  }
+}

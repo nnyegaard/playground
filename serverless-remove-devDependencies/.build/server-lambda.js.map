@@ -1,0 +1,1 @@
+{"version":3,"file":"server-lambda.js","sourceRoot":"","sources":["../src/server-lambda.ts"],"names":[],"mappings":";;;;;AAAA,sEAAyC;AACzC,+BAA4B;AAE5B,MAAM,OAAO,GAAG,yBAAU,CAAC,SAAG,CAAC,CAAC;AAChC,MAAM,CAAC,OAAO,CAAC,OAAO,GAAG,KAAK,EAAE,KAAU,EAAE,OAAY,EAAE,EAAE;IAC1D,OAAO,MAAM,OAAO,CAAC,KAAK,EAAE,OAAO,CAAC,CAAC;AACvC,CAAC,CAAC"}

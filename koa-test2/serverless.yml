@@ -1,0 +1,29 @@
+service:
+  name: genieplanner-sso-api
+
+plugins:
+  - "@hewmen/serverless-plugin-typescript"
+  - serverless-offline # serverless-offline needs to be last in the list
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+  stage: ${opt:stage, 'dev'}
+  region: eu-west-1
+  timeout: 300
+  deploymentBucket:
+    name: labs-lambda-deployments
+  environment:
+    stage: ${self:provider.stage}
+
+functions:
+  catchAll:
+    handler: src/lambda.catchAll
+    events:
+      - http:
+          path: /{proxy+}
+          method: ANY
+# custom:
+#   domain:
+#     name: "lambda.geniebelt.com"
+#     basePath: "${self:provider.stage}-sso"

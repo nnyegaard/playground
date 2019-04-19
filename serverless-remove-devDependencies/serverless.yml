@@ -1,0 +1,57 @@
+service:
+  name: excludeDevDependenciesTest1
+
+plugins:
+  - "@hewmen/serverless-plugin-typescript"
+  - serverless-offline # serverless-offline needs to be last in the list
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+  stage: ${opt:stage, 'dev'}
+  region: eu-west-1
+  timeout: 30
+  logRetentionInDays: 14 # Set the default RetentionInDays for a CloudWatch LogGroup
+  deploymentBucket:
+    name: labs-lambda-deployments
+  environment:
+    stage: ${self:provider.stage}
+
+functions:
+  catchAll:
+    handler: src/server-lambda.handler
+    events:
+      - http:
+          path: /
+          method: ANY
+      - http:
+          path: /{any+}
+          method: ANY
+package:
+  excludeDevDependencies: true
+  exclude:
+    - node_modules/@babel/**
+    - node_modules/@types/**
+    - node_modules/@hewman/**
+    - node_modules/@serverless/**
+    - node_modules/serverless/**
+    - node_modules/typescript/**
+    - node_modules/ts-node/**
+    - node_modules/jest/**
+    
+    - node_modules/nodemon/**
+    - node_modules/cross-env/**
+    - node_modules/serverless-offline/**
+    # - "!node_modules/axios/**"
+    # - "!node_modules/koa/**"
+    # - "!node_modules/koa-bodyparser/**"
+    # - "!node_modules/koa-cookie/**"
+    # - "!node_modules/koa-passport/**"
+    # - "!node_modules/koa-pino-logger/**"
+    # - "!node_modules/koa-router/**"
+    # - "!node_modules/koa-session/**"
+    # - "!node_modules/passport-azure-ad/**"
+    # - "!node_modules/pino/**"
+    # - "!node_modules/pino-pretty/**"
+    # - "!node_modules/serverless-http/**"
+    # - "!node_modules/ts-error/**"

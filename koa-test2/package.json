@@ -1,0 +1,38 @@
+{
+  "name": "koa-test2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "cross-env NODE_ENV=development nodemon --watch src/**/* -e ts,tsx --exec ts-node src/app.local.ts",
+    "start:lambda": "cross-env NODE_ENV=development yarn sls offline --port 44368"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-passport": "^4.1.1",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.10.1",
+    "passport-azure-ad": "^4.0.0",
+    "passport-facebook": "^2.1.1",
+    "serverless-http": "^1.8.0"
+  },
+  "devDependencies": {
+    "@hewmen/serverless-plugin-typescript": "^1.1.17",
+    "@types/koa": "^2.0.47",
+    "@types/koa-bodyparser": "^4.2.1",
+    "@types/koa-passport": "^4.0.2",
+    "@types/koa-router": "^7.0.35",
+    "@types/koa-session": "^5.7.4",
+    "@types/node": "^8.10",
+    "@types/passport-azure-ad": "^4.0.1",
+    "@types/passport-facebook": "^2.1.8",
+    "cross-env": "^5.2.0",
+    "nodemon": "^1.18.9",
+    "serverless": "^1.35.1",
+    "serverless-offline": "^3.31.3",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
+}
