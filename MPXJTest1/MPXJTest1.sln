@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPXJTest1", "MPXJTest1.csproj", "{6F6522D3-67DC-4F8D-B7E6-26606ECB94FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F6522D3-67DC-4F8D-B7E6-26606ECB94FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6522D3-67DC-4F8D-B7E6-26606ECB94FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6522D3-67DC-4F8D-B7E6-26606ECB94FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6522D3-67DC-4F8D-B7E6-26606ECB94FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

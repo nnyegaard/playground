@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8999311d-e7f9-4e93-a12f-f55ab054c5bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MPXJTest1/.idea/.idea.MPXJTest1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPXJTest1/.idea/.idea.MPXJTest1/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPXJTest1/.idea/.idea.MPXJTest1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPXJTest1/.idea/.idea.MPXJTest1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MPXJTest2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MPXJTest2/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MPXJTest2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MPXJTest2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppModelv2-WebApp-OpenIDConnect-nodejs" beforeDir="false" afterPath="$PROJECT_DIR$/../AppModelv2-WebApp-OpenIDConnect-nodejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/.vs/Quickstart/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/.vs/Quickstart/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/.vs/Quickstart/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/.vs/Quickstart/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/.vs/Quickstart/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/.vs/Quickstart/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Api/bin/Debug/netcoreapp2.2/Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Api/bin/Debug/netcoreapp2.2/Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Api/bin/Debug/netcoreapp2.2/Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Api/bin/Debug/netcoreapp2.2/Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Api/obj/Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Api/obj/Api.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Api/obj/Debug/netcoreapp2.2/Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Api/obj/Debug/netcoreapp2.2/project.razor.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Api/obj/Debug/netcoreapp2.2/project.razor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Client/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Client/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Client/bin/Debug/netcoreapp2.2/Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Client/bin/Debug/netcoreapp2.2/Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Client/bin/Debug/netcoreapp2.2/Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Client/bin/Debug/netcoreapp2.2/Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Client/obj/Client.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Client/obj/Client.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Client/obj/Debug/netcoreapp2.2/Client.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Client/obj/Debug/netcoreapp2.2/Client.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Client/obj/Debug/netcoreapp2.2/Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Client/obj/Debug/netcoreapp2.2/Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/Client/obj/Debug/netcoreapp2.2/Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/Client/obj/Debug/netcoreapp2.2/Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/IdentityServer/identityserver4_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/IdentityServer/identityserver4_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/IdentityServer.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/project.razor.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/IdentityServer/obj/Debug/netcoreapp2.1/project.razor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ids4-quickstart/src/IdentityServer/obj/IdentityServer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ids4-quickstart/src/IdentityServer/obj/IdentityServer.csproj.nuget.g.props" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MPXJTest2/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="48" lean-forward="true" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+              <folding>
+                <marker date="1557392159621" expanded="true" signature="6:139" ph="..." />
+                <marker date="1557392159621" expanded="true" signature="160:1554" ph="{...}" />
+                <marker date="1557392159621" expanded="true" signature="189:1552" ph="{...}" />
+                <marker date="1557392159621" expanded="true" signature="242:390" ph="{...}" />
+                <marker date="1557392159621" expanded="true" signature="429:990" ph="{...}" />
+                <marker date="1557392159621" expanded="true" signature="856:979" ph="{...}" />
+                <marker date="1557392159621" expanded="true" signature="1029:1546" ph="{...}" />
+                <marker date="1557392159621" expanded="true" signature="1413:1536" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MPXJTest2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MPXJTest2/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="745" />
+    <option name="y" value="256" />
+    <option name="width" value="1800" />
+    <option name="height" value="1287" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MPXJTest2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MPXJTest2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MPXJTest2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MPXJTest2/Hour_by_Hour_Possession_Programme_09_(5paris-date-03).xer" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="file.status.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MPXJTest2/bin/Debug/MPXJTest2.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MPXJTest2/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MPXJTest2/MPXJTest2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8999311d-e7f9-4e93-a12f-f55ab054c5bd" name="Default Changelist" comment="" />
+      <created>1557385575479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557385575479</updated>
+      <workItem from="1557385577158" duration="4411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4411000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11332008" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.47168058" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Build" weight="0.3289166" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27669525" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MPXJTest2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="48" lean-forward="true" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+          <folding>
+            <marker date="1557392159621" expanded="true" signature="6:139" ph="..." />
+            <marker date="1557392159621" expanded="true" signature="160:1554" ph="{...}" />
+            <marker date="1557392159621" expanded="true" signature="189:1552" ph="{...}" />
+            <marker date="1557392159621" expanded="true" signature="242:390" ph="{...}" />
+            <marker date="1557392159621" expanded="true" signature="429:990" ph="{...}" />
+            <marker date="1557392159621" expanded="true" signature="856:979" ph="{...}" />
+            <marker date="1557392159621" expanded="true" signature="1029:1546" ph="{...}" />
+            <marker date="1557392159621" expanded="true" signature="1413:1536" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -3,7 +3,6 @@ C:\development\playground\ids4-quickstart\src\IdentityServer\bin\Debug\netcoreap
 C:\development\playground\ids4-quickstart\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.dev.json
 C:\development\playground\ids4-quickstart\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.dll
 C:\development\playground\ids4-quickstart\src\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.pdb
-C:\development\playground\ids4-quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csprojAssemblyReference.cache
 C:\development\playground\ids4-quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csproj.CoreCompileInputs.cache
 C:\development\playground\ids4-quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cache
 C:\development\playground\ids4-quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cs
@@ -12,3 +11,4 @@ C:\development\playground\ids4-quickstart\src\IdentityServer\obj\Debug\netcoreap
 C:\development\playground\ids4-quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorTargetAssemblyInfo.cache
 C:\development\playground\ids4-quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.dll
 C:\development\playground\ids4-quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.pdb
+C:\development\playground\ids4-quickstart\src\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csprojAssemblyReference.cache

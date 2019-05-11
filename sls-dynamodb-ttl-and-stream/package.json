@@ -1,0 +1,26 @@
+{
+  "name": "sls-dynamodb-ttl-and-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "yarn sls deploy"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.24",
+    "@types/node": "^11.13.5",
+    "@types/uuid": "^3.4.4",
+    "aws-sdk": "^2.440.0",
+    "serverless": "^1.41.0",
+    "serverless-offline": "^4.9.4",
+    "serverless-webpack": "^5.2.0",
+    "source-map-support": "^0.5.12",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.4.4",
+    "webpack": "^4.30.0"
+  },
+  "dependencies": {
+    "date-fns": "^2.0.0-alpha.27",
+    "uuid": "^3.3.2"
+  }
+}
