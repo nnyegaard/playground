@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "consumer/1.0.0": {
+        "dependencies": {
+          "RabbitMQ.Client": "5.1.1"
+        },
+        "runtime": {
+          "consumer.dll": {}
+        }
+      },
+      "RabbitMQ.Client/5.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.1.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "consumer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RabbitMQ.Client/5.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ApUZXLujbNGDceSQGv3b1FkoFeUwuWR9PTkw0Iwsd5ivzcjCMegq6zIFPXDEFjEoMgUOHuNWjNnFpmFl5HQ50Q==",
+      "path": "rabbitmq.client/5.1.1",
+      "hashPath": "rabbitmq.client.5.1.1.nupkg.sha512"
+    }
+  }
+}
