@@ -1,0 +1,9 @@
+{
+  "name": "jsreport-test1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jsreport-cli": "^2.0.7"
+  }
+}
